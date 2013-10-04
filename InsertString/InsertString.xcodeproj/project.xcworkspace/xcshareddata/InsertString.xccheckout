@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FE052834-90F9-4032-9610-3F6C5FD990A0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InsertString</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3366CBD4-5E90-49EA-8EDD-CA750F895869</key>
+		<string>https://github.com/navzou/try-insert-string.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InsertString/InsertString.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3366CBD4-5E90-49EA-8EDD-CA750F895869</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/try-insert-string.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3366CBD4-5E90-49EA-8EDD-CA750F895869</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3366CBD4-5E90-49EA-8EDD-CA750F895869</string>
+			<key>IDESourceControlWCCName</key>
+			<string>try-insert-string</string>
+		</dict>
+	</array>
+</dict>
+</plist>
